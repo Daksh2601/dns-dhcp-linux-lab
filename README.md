@@ -156,7 +156,7 @@ This is **Project 2** of my hands-on networking and IT infrastructure portfolio.
 
 | Project | Description | Repo |
 |---------|------------|------|
-| Project 1 | VLAN & Inter-VLAN Routing (Cisco Packet Tracer) | [vlan-intervlan-routing-lab](#) |
+| Project 1 | VLAN & Inter-VLAN Routing (Cisco Packet Tracer) | [vlan-intervlan-routing-lab](https://github.com/Daksh2601/vlan-intervlan-routing-lab) |
 | Project 2 | DNS & DHCP Server on Linux (this repo) | — |
 | Project 3 | Active Directory Home Lab (coming soon) | — |
 
