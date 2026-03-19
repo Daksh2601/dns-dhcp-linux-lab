@@ -6,6 +6,10 @@
 
 📄 **[View Full Lab Documentation (PDF)](./DNS_DHCP_Lab_Documentation.pdf)**
 
+## Network Topology
+
+![DNS & DHCP Lab Topology](./topology.png)
+
 ---
 
 ## Objective
